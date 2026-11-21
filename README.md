@@ -23,7 +23,7 @@ I build software that runs on real devices and real data: machine learning model
 
 ## About me
 
-- 🎓 Software Engineering (BCS), Ghalib University
+- 🎓 Software Engineering (BCS) graduate, Ghalib University
 - 🗣️ Pashto, Dari and English
 - 🔒 I like privacy-first designs: models that run on the device, and systems that send numbers instead of images
 
